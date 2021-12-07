@@ -184,6 +184,12 @@ header {
     display: inline-block;
 }
 
+/* Edição da página */
+.img-preview {
+    width: 100px;
+    margin-top: 20px;
+}
+
 /* footer */
 footer {
     text-align: center;
